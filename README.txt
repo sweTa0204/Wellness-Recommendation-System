@@ -1,5 +1,5 @@
-                                                                                🧘‍♀️ Wellness Recommendation System
-                                                                                      ✍️ Author: Sweta Sharma
+                                                                    🧘‍♀️ Wellness Recommendation System
+                                                                        ✍️ Author: Sweta Sharma
 📌 Overview
 The Wellness Recommendation System is a machine learning-based application that provides personalized wellness recommendations by analyzing user health data. It evaluates various health metrics—such as sleep duration, physical activity, stress levels, BMI, heart rate, workload, and environmental conditions—to suggest one of three wellness strategies:
 
