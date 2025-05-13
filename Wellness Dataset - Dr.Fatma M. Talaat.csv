@@ -1,0 +1,738 @@
+Duration of Sleep (hours),Level of Physical Activity (minutes per day),Level of Stress (scale: 1–10),BMI Category,Heart Rate (bpm),Systolic and Diastolic Blood Pressure,"Nutrition Intake (calories, breakdown of nutrients, etc.)",Level of Workload (scale: 1–10),Quality or frequency of social interactions,Activities for Mental Health (such as therapy sessions or meditation),Environmental Aspects (such as weather and air quality),Lifestyle Decisions (such as drinking and smoking),"Additional health indicators (e.g., water levels, steps)",Mood Output
+7.5,30,5,Normal,72,120/80,2000 calories (balanced diet),6,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2 liters, 10,000 steps",Happy
+6.8,45,3,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,4,Normal,70,122/82,2200 calories (healthy diet),5,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
+6.4,45,6,Overweight,79,128/88,2850 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7500 steps",Neutral
+8.2,15,5,Underweight,60,105/65,1750 calories (low in calories),2,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3.0 liters, 6500 steps",Happy
+6,60,7,Normal,71,132/92,2450 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2.2 liters, 11500 steps",Sad
+5.6,10,10,Obese,88,145/100,3700 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.8 liters, 2500 steps",Sad
+7,30,3,Normal,66,110/70,2000 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.0 liters, 10000 steps",Happy
+6.8,45,4,Overweight,75,118/78,2500 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.5 liters, 8000 steps",Neutral
+8.2,15,8,Underweight,68,115/75,1800 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.5 liters, 5000 steps",Sad
+7,60,2,Normal,70,122/82,2200 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.0 liters, 12000 steps",Happy
+5.5,10,9,Obese,80,130/90,3000 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1 liter, 3000 steps",Sad
+7.8,30,2,Normal,65,110/70,2100 calories (balanced diet),4,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.5 liters, 9000 steps",Neutral
+6.5,45,6,Overweight,78,125/85,2800 calories (high in fat),8,"Moderate, occasional",None,"Sunny, good air quality","Occasional alcohol, no smoking","1.8 liters, 7000 steps",Neutral
+8.5,15,1,Underweight,62,108/68,1700 calories (low in calories),3,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","3 liters, 6000 steps",Happy
+6.2,60,7,Normal,73,128/88,2400 calories (healthy diet),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","Daily alcohol, no smoking","2 liters, 11000 steps",Sad
+5.8,10,10,Obese,85,140/95,3500 calories (unhealthy),10,"Poor, infrequent",None,"Rainy, poor air quality","Daily alcohol, heavy smoking","0.5 liters, 2000 steps",Sad
+7.2,30,3,Normal,68,112/72,2050 calories (balanced diet),5,"Good, frequent",Meditation daily,"Sunny, good air quality","No alcohol, no smoking","2.2 liters, 10500 steps",Happy
+6.6,45,4,Overweight,76,120/80,2600 calories (high in carbs),7,"Moderate, occasional",None,"Rainy, poor air quality","Occasional alcohol, no smoking","1.6 liters, 8500 steps",Neutral
+8,15,8,Underweight,65,110/70,1850 calories (low in protein),9,"Low, infrequent",Therapy sessions weekly,"Sunny, good air quality","No alcohol, no smoking","2.8 liters, 5500 steps",Sad
+7.4,60,2,Normal,70,124/84,2250 calories (healthy diet),4,"Very good, daily",Yoga twice a week,"Cloudy, moderate air quality","No alcohol, no smoking","2.4 liters, 12500 steps",Happy
+5.2,10,9,Obese,82,135/95,3200 calories (unhealthy),10,"Poor, infrequent",None,"Sunny, good air quality","Daily alcohol, occasional smoking","1.2 liters, 3500 steps",Sad
+7.6,30,1,Normal,63,108/68,2100 calories (balanced diet),3,"Good, frequent",Meditation daily,"Rainy, poor air quality","No alcohol, no smoking","2.6 liters, 9500 steps",Neutral
