@@ -1,45 +1,64 @@
-# Wellness Recommendation System
-## Author:
-Sweta Sharma
-## Overview
-The Wellness Recommendation System is a machine learning-based application that provides personalized wellness recommendations based on user health data. The system analyzes various health metrics such as sleep duration, physical activity, stress levels, BMI, heart rate, workload, and environmental factors to suggest one of three recommendation types: meditation, workout, or product.
+                                                                                🧘‍♀️ Wellness Recommendation System
+                                                                                      ✍️ Author: Sweta Sharma
+📌 Overview
+The Wellness Recommendation System is a machine learning-based application that provides personalized wellness recommendations by analyzing user health data. It evaluates various health metrics—such as sleep duration, physical activity, stress levels, BMI, heart rate, workload, and environmental conditions—to suggest one of three wellness strategies:
 
-## Features
-- **Personalized Recommendations**: Get tailored wellness suggestions based on your health metrics
-- **Web Application Interface**: Easy-to-use Flask web interface for inputting health data
-- **API Endpoint**: REST API for integration with other applications
-- **Machine Learning Model**: Random Forest classifier trained on wellness data
-- **Data Visualization**: Visual analysis of wellness data and model performance
+🧘‍♂️ Meditation
 
-## Project Structure
-- `app.py`: Flask web application for serving recommendations
-- `recommendation_system.py`: Core recommendation engine with model training and prediction
-- `data_preprocessing.py`: Data cleaning and preparation utilities
-- `train_model.py`: Model training scripts with hyperparameter tuning
-- `model_evaluation.py`: Comprehensive model evaluation metrics and visualizations
-- `processed_wellness_data.csv`: Preprocessed dataset
-- `wellness_model.pkl`: Trained machine learning model
-- `requirements.txt`: Project dependencies
+🏋️ Workout
 
-## Installation
+🛍️ Product Suggestion
 
-1. Clone the repository
-2. Install dependencies:
-```bash
+🌟 Key Features
+✅ Personalized Recommendations based on real-time health inputs
+
+🖥️ Flask Web Interface for user-friendly interaction
+
+🔗 REST API Endpoint for external integration
+
+🌲 Random Forest Classifier for robust predictions
+
+📊 Data Visualization for insights and model transparency
+
+🗂️ Project Structure
+File/Folder	Description
+app.py	Flask server for the web interface and API
+recommendation_system.py	Core engine for training and prediction
+data_preprocessing.py	Utilities for data cleaning and preparation
+train_model.py	Script for model training with hyperparameter tuning
+model_evaluation.py	Model performance metrics and visualizations
+processed_wellness_data.csv	Cleaned and ready-to-use dataset
+wellness_model.pkl	Trained machine learning model
+requirements.txt	List of required Python packages
+
+🚀 Installation
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/wellness-recommendation-system.git
+cd wellness-recommendation-system
+Install the required dependencies:
+
+bash
+Copy
+Edit
 pip install -r requirements.txt
-```
-
-## Usage
-
-### Running the Web Application
-```bash
+🧪 Usage
+▶️ Run the Web Application
+bash
+Copy
+Edit
 python app.py
-```
-This will start the Flask server at http://localhost:5000
+Visit http://localhost:5000 in your browser.
 
-### Getting Recommendations via API
-Send a POST request to `/api/recommend` with the following JSON structure:
-```json
+🔗 Get Recommendations via API
+POST to /api/recommend with JSON:
+
+json
+Copy
+Edit
 {
   "duration_of_sleep__hours_": 7.5,
   "level_of_physical_activity__minutes_per_day_": 30,
@@ -49,61 +68,82 @@ Send a POST request to `/api/recommend` with the following JSON structure:
   "level_of_workload__scale__1_10_": 6,
   "weather": "sunny"
 }
-```
-
-### Training a New Model
-```bash
+🧠 Train a New Model
+bash
+Copy
+Edit
 python train_model.py
-```
-
-### Evaluating Model Performance
-```bash
+📈 Evaluate Model Performance
+bash
+Copy
+Edit
 python model_evaluation.py
-```
+🧬 Model Details
+Algorithm Used: Random Forest Classifier
+Input Features:
 
-## Model Details
-The recommendation system uses a Random Forest classifier with the following features:
-- Sleep duration (hours)
-- Physical activity level (minutes per day)
-- Stress level (scale 1-10)
-- BMI category (Underweight, Normal, Overweight, Obese)
-- Heart rate (BPM)
-- Workload level (scale 1-10)
-- Weather conditions
+Sleep duration (hours)
 
-## Recommendation Types
-1. **Meditation**: Recommended for users with high stress levels or poor sleep quality
-2. **Workout**: Suggested for users with low physical activity or weight management needs
-3. **Product**: Recommended for specific health needs like hydration or nutrition
+Physical activity (minutes/day)
 
-## Data Preprocessing
-The system preprocesses raw wellness data by:
-- Cleaning column names
-- Extracting weather information
-- Parsing blood pressure readings
-- Mapping mood states to recommendation types
-- Handling missing values
-- Standardizing numerical features
-- One-hot encoding categorical features
+Stress level (scale 1–10)
 
-## Model Evaluation
-The model is evaluated using:
-- Accuracy score
-- Precision, recall, and F1 score for each class
-- Confusion matrix
-- Feature importance analysis
+BMI category: Underweight, Normal, Overweight, Obese
 
-## Dependencies
-- pandas >= 1.5.3
-- numpy >= 1.26.0
-- scikit-learn >= 1.2.2
-- joblib >= 1.2.0
-- matplotlib >= 3.7.1
-- seaborn >= 0.12.2
-- streamlit >= 1.22.0
-- nltk>=3.8.1
-- textblob>=0.17.1
+Heart rate (BPM)
 
+Workload (scale 1–10)
 
+Weather condition (e.g., sunny, rainy)
 
-        
+🎯 Recommendation Types
+Type	When It's Recommended
+🧘 Meditation	High stress or poor sleep quality
+🏋️ Workout	Low physical activity or weight concerns
+🛍️ Product	Needs related to hydration or nutrition
+
+🧹 Data Preprocessing Includes:
+Column name cleaning
+
+Weather feature extraction
+
+Blood pressure parsing
+
+Mood-to-recommendation mapping
+
+Handling missing data
+
+Standardizing numerical values
+
+One-hot encoding of categorical data
+
+📊 Model Evaluation Metrics
+Accuracy Score
+
+Precision, Recall, F1-Score (per class)
+
+Confusion Matrix
+
+Feature Importance Visualization
+
+📦 Dependencies
+nginx
+Copy
+Edit
+pandas >= 1.5.3  
+numpy >= 1.26.0  
+scikit-learn >= 1.2.2  
+joblib >= 1.2.0  
+matplotlib >= 3.7.1  
+seaborn >= 0.12.2  
+streamlit >= 1.22.0  
+nltk >= 3.8.1  
+textblob >= 0.17.1  
+Install them using:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+📬 Contact
+For suggestions or queries, feel free to reach out to Sweta Sharma via GitHub
