@@ -33,23 +33,17 @@ requirements.txt	List of required Python packages
 
 🚀 Installation
 Clone the repository:
-
-bash
-Copy
-Edit
+bash:
 git clone https://github.com/yourusername/wellness-recommendation-system.git
 cd wellness-recommendation-system
-Install the required dependencies:
 
-bash
-Copy
-Edit
+Install the required dependencies:
+bash:
 pip install -r requirements.txt
+
 🧪 Usage
 ▶️ Run the Web Application
-bash
-Copy
-Edit
+bash:
 python app.py
 Visit http://localhost:5000 in your browser.
 
@@ -57,8 +51,6 @@ Visit http://localhost:5000 in your browser.
 POST to /api/recommend with JSON:
 
 json
-Copy
-Edit
 {
   "duration_of_sleep__hours_": 7.5,
   "level_of_physical_activity__minutes_per_day_": 30,
@@ -69,9 +61,7 @@ Edit
   "weather": "sunny"
 }
 🧠 Train a New Model
-bash
-Copy
-Edit
+bash:
 python train_model.py
 📈 Evaluate Model Performance
 bash
@@ -79,7 +69,9 @@ Copy
 Edit
 python model_evaluation.py
 🧬 Model Details
+
 Algorithm Used: Random Forest Classifier
+
 Input Features:
 
 Sleep duration (hours)
@@ -141,9 +133,8 @@ nltk >= 3.8.1
 textblob >= 0.17.1  
 Install them using:
 
-bash
-Copy
-Edit
+bash:
 pip install -r requirements.txt
+
 📬 Contact
 For suggestions or queries, feel free to reach out to Sweta Sharma via GitHub
